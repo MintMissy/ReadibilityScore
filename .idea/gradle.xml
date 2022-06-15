@@ -28,6 +28,10 @@
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Statements" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Compare the results" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Heron's formula" />
+            <option value="$PROJECT_DIR$/Topics/Math library/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Topics/Math library/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

@@ -18,6 +18,10 @@
       <module name="Readability_Score.Topics-Floating-point_types-Liquid_pressure.main" target="11" />
       <module name="Readability_Score.Topics-Floating-point_types-Statements.main" target="11" />
       <module name="Readability_Score.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Readability_Score.Topics-Math_library-Compare_the_results.main" target="11" />
+      <module name="Readability_Score.Topics-Math_library-Heron's_formula.main" target="11" />
+      <module name="Readability_Score.Topics-Math_library-The_angle_between_vectors.main" target="11" />
+      <module name="Readability_Score.Topics-Math_library-Theory.main" target="11" />
       <module name="Readability_Score.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>

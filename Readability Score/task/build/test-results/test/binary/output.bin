@@ -3,19 +3,43 @@
 Words: 108
 Sentences: 6
 Characters: 580
-"The score is: 12.864444444444445
-4This text should be understood by 18-24-year-olds.
+Syllables: 197
+Polysyllables: 21
+FEnter the score you want to calculate (ARI, FK, SMOG, CL, all): > all
+
+GAutomated Readability Index: (about 12.864444444444445 24-year-olds).
+NFlesch–Kincaid readability tests: (about 12.954074074074075 24-year-olds).
+JSimple Measure of Gobbledygook: (about 13.81666964889586 24+-year-olds).
+AColeman–Liau index: (about 14.133333333333333 24+-year-olds).
+
+=This text should be understood in average by 24+-year-olds.
 [1;31m
 Start test 2[0m
-Words: 100
-Sentences: 10
-Characters: 476
-!The score is: 5.989599999999999
-4This text should be understood by 11-12-year-olds.
+Words: 137
+Sentences: 14
+Characters: 687
+Syllables: 210
+Polysyllables: 18
+FEnter the score you want to calculate (ARI, FK, SMOG, CL, all): > all
+
+FAutomated Readability Index: (about 7.081616266944732 14-year-olds).
+MFlesch–Kincaid readability tests: (about 6.314019812304483 13-year-olds).
+ISimple Measure of Gobbledygook: (about 9.606745405546679 16-year-olds).
+@Coleman–Liau index: (about 10.661021897810219 17-year-olds).
+
+<This text should be understood in average by 15-year-olds.
 [1;31m
 Start test 3[0m
 Words: 180
 Sentences: 13
 Characters: 982
-"The score is: 11.188743589743588
-4This text should be understood by 17-18-year-olds.
+Syllables: 313
+Polysyllables: 33
+FEnter the score you want to calculate (ARI, FK, SMOG, CL, all): > all
+
+GAutomated Readability Index: (about 11.188743589743588 18-year-olds).
+NFlesch–Kincaid readability tests: (about 10.328888888888894 17-year-olds).
+JSimple Measure of Gobbledygook: (about 12.230961643895458 24-year-olds).
+AColeman–Liau index: (about 14.140888888888885 24+-year-olds).
+
+<This text should be understood in average by 18-year-olds.
